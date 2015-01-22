@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RSS Reader</string>
+    <string name="title_activity_feed">Feed</string>
+    <string name="action_add_channel">Add a channel</string>
+    <string name="title_activity_description">News item</string>
+    <string name="title_activity_channels">RSS Reader</string>
+    <string name="add_title">Add a channel</string>
+    <string name="edit_title">Edit channel</string>
+    <string name="add_text">Add</string>
+    <string name="save_text">Save</string>
+    <string name="cancel_text">Cancel</string>
+    <string name="edtUrl_hint">Channel URL</string>
+    <string name="edtName_hint">Channel name</string>
+    <string name="btnDelete_text">Delete channel</string>
+    <string name="edtUrl_text">http://</string>
+
+</resources>
